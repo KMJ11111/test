@@ -1,0 +1,56 @@
+{
+  "party": [
+    {
+      "name": "Cecil",
+      "max_hp": 60,
+      "hp": 60,
+      "atk": 10,
+      "speed": 140,
+      "max_energy": 100,
+      "energy": 40,
+      "statuses": [],
+      "atb": 1.0,
+      "ready": true,
+      "level": 1,
+      "exp": 0,
+      "max_exp": 100
+    },
+    {
+      "name": "Rydia",
+      "max_hp": 40,
+      "hp": 40,
+      "atk": 7,
+      "speed": 120,
+      "max_energy": 100,
+      "energy": 100,
+      "statuses": [],
+      "atb": 1.0,
+      "ready": true,
+      "level": 1,
+      "exp": 0,
+      "max_exp": 100
+    }
+  ],
+  "inventory": {
+    "equipment": [
+      "가죽 갑옷",
+      "나무 방패"
+    ],
+    "consumables": [
+      "포션",
+      "포션",
+      "해독약"
+    ],
+    "key": [
+      "촌장의 편지"
+    ]
+  },
+  "quests": {},
+  "scene": "SaveLoadUI",
+  "overworld": {
+    "player_pos": [
+      347,
+      43
+    ]
+  }
+}

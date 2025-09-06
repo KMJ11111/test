@@ -1,0 +1,92 @@
+{
+  "party": [
+    {
+      "name": "세실",
+      "max_hp": 60,
+      "hp": 60,
+      "atk": 10,
+      "speed": 140,
+      "level": 1,
+      "exp": 0,
+      "max_exp": 100,
+      "energy": 100,
+      "max_energy": 100,
+      "base_atk": 10,
+      "gold": 0,
+      "equipped_weapon": null
+    },
+    {
+      "name": "리디아",
+      "max_hp": 40,
+      "hp": 40,
+      "atk": 7,
+      "speed": 120,
+      "level": 1,
+      "exp": 0,
+      "max_exp": 100,
+      "energy": 100,
+      "max_energy": 100,
+      "base_atk": 7,
+      "gold": 0,
+      "equipped_weapon": null
+    }
+  ],
+  "gold": 0,
+  "gems": 0,
+  "inventory": [],
+  "quests": [
+    {
+      "id": "forest_imps",
+      "title": "숲의 임프 퇴치",
+      "description": "숲에 나타난 임프들을 5마리 처치하세요.",
+      "target_count": 5,
+      "progress": 0,
+      "completed": false,
+      "accepted": false,
+      "reward_exp": 50,
+      "reward_gold": 100,
+      "rewarded": false
+    },
+    {
+      "id": "strong_enemies",
+      "title": "강한 적 처치",
+      "description": "레벨 3 이상의 강한 적을 3마리 처치하세요.",
+      "target_count": 3,
+      "progress": 0,
+      "completed": false,
+      "accepted": false,
+      "reward_exp": 100,
+      "reward_gold": 200,
+      "rewarded": false
+    },
+    {
+      "id": "boss_defeat",
+      "title": "보스 처치",
+      "description": "강력한 보스를 처치하세요.",
+      "target_count": 1,
+      "progress": 0,
+      "completed": false,
+      "accepted": false,
+      "reward_exp": 200,
+      "reward_gold": 500,
+      "rewarded": false
+    },
+    {
+      "id": "level_up",
+      "title": "레벨업",
+      "description": "캐릭터를 3레벨 올리세요.",
+      "target_count": 3,
+      "progress": 0,
+      "completed": false,
+      "accepted": false,
+      "reward_exp": 150,
+      "reward_gold": 300,
+      "rewarded": false
+    }
+  ],
+  "overworld_enemies": [],
+  "defeated_enemy_index": null,
+  "world_seed": null,
+  "schema_version": 1,
+  "saved_at": "2025-09-03 20:38:32"
+}
